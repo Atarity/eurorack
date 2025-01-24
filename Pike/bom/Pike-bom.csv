@@ -1,0 +1,11 @@
+“#”,”Reference”,”Value”,”Qty”,”Description”,”Mouser Part Number”
+“1”,”C1,C2”,”22uF”,”2”,”Aluminium Electrolytic Capacitors - Radial Leaded, Panasonic”,”667-ECE-A1HKA220”
+“2”,”D2”,”1N5400”,”1”,”Rectifiers 50V 3A Standard”,”863-1N5400G”
+“3”,”D1,D3,D4”,”604-WP424GDT”,”3”,”Single Colour LEDs 3MM FLAT TOP GRN”,”604-WP424GDT”
+“4”,”J1”,”PJ-005A”,”1”,”DC Power Connectors Power Jack”,”490-PJ-005A”
+“5”,”PS1”,”DKMW30F-12”,”1”,”Isolated DC/DC Converters 9-36Vin +/-12Vout +/-1250mA DIP Iso”,”709-DKMW30F-12”
+“6”,”PS2”,”TSR_0.5-2450”,”1”,”Non-Isolated DC/DC Converter (TRACO)”,”495-TSR0.5-2450”
+“7”,”R3”,”1K”,”1”,”Through Hole 1K 250 mW 5 %”,”CFR-25JB-1K0”
+“8”,”R1,R2”,”2K2”,”2”,”Through Hole 2K2 250 mW 5 %”,”CFR25SJT-26-2K2”
+“9”,”S1”,”2MS1T2B3M2QES”,”1”,”Toggle Switches SPDT ON-ON PC MOUNT”,”118-2MS1T2B3M2QES”
+“10”,”J2”,”Power bus 02x08”,”1”,”2.54 pitch pin reel 2x8”,””

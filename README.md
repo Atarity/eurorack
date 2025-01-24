@@ -1,2 +1,2 @@
 # Eurorack DIY projects
-- Pike — 4hp power for small racks (Befaco Excalibus relayout)
+- Pike — 4HP power for small racks (Befaco Excalibus relayout)

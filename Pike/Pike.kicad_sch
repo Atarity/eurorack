@@ -3370,6 +3370,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 172.72 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "008fe4dd-0612-4371-9f82-f97b25001aa0")
 		)
@@ -3428,7 +3437,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Aluminium Electrolytic Capacitors - Radial Leaded, Panasonic"
+			(at 165.1 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "Low height (7mm)"
+			(at 165.1 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ECE-A1HKA220"
 			(at 165.1 80.01 0)
 			(effects
 				(font
@@ -3891,7 +3918,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Through Hole 2K2 250 mW 5 %"
+			(at 137.16 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 137.16 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "CFR25SJT-26-2K2"
 			(at 137.16 128.27 0)
 			(effects
 				(font
@@ -4027,6 +4072,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 93.98 118.11 0)
 			(effects
 				(font
@@ -4289,7 +4343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DC Power Connectors Power Jack"
 			(at 41.91 74.93 0)
 			(effects
 				(font
@@ -4299,6 +4353,24 @@
 			)
 		)
 		(property "Vendor" "CUI Devices"
+			(at 41.91 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 41.91 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "490-PJ-005A"
 			(at 41.91 74.93 0)
 			(effects
 				(font
@@ -4435,7 +4507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Rectifiers 50V 3A Standard"
 			(at 91.44 72.39 0)
 			(effects
 				(font
@@ -4454,6 +4526,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 91.44 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 91.44 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "863-1N5400G"
 			(at 91.44 72.39 0)
 			(effects
 				(font
@@ -4589,7 +4679,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Single Colour LEDs 3MM FLAT TOP GRN"
+			(at 77.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "You can adjust LEDs and corresponding resistors on your own"
+			(at 77.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-WP424GDT"
 			(at 77.47 121.92 0)
 			(effects
 				(font
@@ -4657,7 +4765,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Through Hole 1K 250 mW 5 %"
+			(at 184.15 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 184.15 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "CFR-25JB-1K0"
 			(at 184.15 72.39 0)
 			(effects
 				(font
@@ -4791,7 +4917,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Through Hole 2K2 250 mW 5 %"
+			(at 87.63 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 87.63 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "CFR25SJT-26-2K2"
 			(at 87.63 121.92 0)
 			(effects
 				(font
@@ -4863,7 +5007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Non-Isolated DC/DC Converter (TRACO)"
 			(at 146.05 64.77 0)
 			(effects
 				(font
@@ -4919,6 +5063,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Comments" "495-TSR-1-2450 is also OK"
+			(at 146.05 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -4984,7 +5137,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54 pitch pin reel 2x8"
+			(at 236.22 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 236.22 107.95 0)
 			(effects
 				(font
@@ -5158,6 +5320,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 109.22 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "265e7af9-c8ce-468a-91db-a0524c19b679")
 		)
@@ -5233,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Toggle Switches SPDT ON-ON PC MOUNT"
 			(at 72.39 64.77 0)
 			(effects
 				(font
@@ -5289,6 +5460,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 72.39 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5488,7 +5668,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Single Colour LEDs 3MM FLAT TOP GRN"
+			(at 127 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "You can adjust LEDs and corresponding resistors on your own"
+			(at 127 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-WP424GDT"
 			(at 127 128.27 0)
 			(effects
 				(font
@@ -5558,7 +5756,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Aluminium Electrolytic Capacitors - Radial Leaded, Panasonic"
+			(at 133.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "Low height (7mm)"
+			(at 133.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ECE-A1HKA220"
 			(at 133.35 80.01 0)
 			(effects
 				(font
@@ -5654,7 +5870,7 @@
 		(at 80.01 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5696,6 +5912,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.01 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 80.01 68.58 0)
 			(effects
 				(font
@@ -5837,6 +6062,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 58.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4562dc0f-f48c-40b9-8ad0-ddf2e4f3a7ca")
 		)
@@ -5903,6 +6137,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 115.57 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6009843-b702-4e75-a5dc-f22516bfc611")
 		)
@@ -5961,7 +6204,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Single Colour LEDs 3MM FLAT TOP GRN"
+			(at 195.58 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "You can adjust LEDs and corresponding resistors on your own"
+			(at 195.58 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-WP424GDT"
 			(at 195.58 72.39 0)
 			(effects
 				(font

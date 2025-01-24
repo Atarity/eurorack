@@ -1,5 +1,5 @@
 *.kicad_prl
-*.kicad_pro
 *.lck
 fp-info-cache
 Gerbers
+Pike-backups
