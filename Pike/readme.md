@@ -1,4 +1,4 @@
-![Pike](pics/pike-iso.jpg)
+![Pike](Pics/pike-iso.jpg)
 
 # Pike
 Pike — 4HP power for compact racks. It based on turn-key MeanWell PSU with minimum possible additional components. Pike is just a relayout of [Excalibus power bus by Befaco](https://www.befaco.org/excalibus/) made to use with flying bus.
@@ -6,7 +6,7 @@ Pike — 4HP power for compact racks. It based on turn-key MeanWell PSU with min
 - [Mouser cart](https://www.mouser.fi/ProjectManager/ProjectDetail.aspx?AccessID=896566e5e1)
 - [Blog post with project details](https://snnkv.com/projects/pike/)
 
-![Pike](pics/pike-title.jpg)
+![Pike](Pics/pike-title.jpg)
 
 ## Specs
 - IN
