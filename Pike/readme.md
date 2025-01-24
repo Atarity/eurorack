@@ -6,8 +6,6 @@ Pike — 4HP power for compact racks. It based on turn-key MeanWell PSU with min
 - [Mouser cart](https://www.mouser.fi/ProjectManager/ProjectDetail.aspx?AccessID=896566e5e1)
 - [Blog post with project details](https://snnkv.com/projects/pike/)
 
-![Pike](Pics/pike-title.jpg)
-
 ## Specs
 - IN
     - DC 9-18V
@@ -24,3 +22,5 @@ Pike — 4HP power for compact racks. It based on turn-key MeanWell PSU with min
 - Depth: 28mm
 
 It is possible to install module inside of a rack thru M2-M2.5 screws and not to use front panel at all.
+
+![Pike](Pics/pike-title.jpg)
